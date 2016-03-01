@@ -12,6 +12,11 @@
         <mark key="]" line="25" column="25" />
         <mark key="." line="25" column="25" />
       </file>
+      <file name="$USER_HOME$/Desktop/tre/Project 1/src/com/company/Student.java" timestamp="1456806971229">
+        <mark key="[" line="6" column="18" />
+        <mark key="]" line="6" column="18" />
+        <mark key="." line="6" column="18" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/3.12/src/SLList.java" timestamp="1455656069394">
         <mark key="[" line="3" column="20" />
       </file>
@@ -54,37 +59,37 @@
     </jumps>
     <registers>
       <register name="1" type="4">
-        <text />
+        <text>booknam</text>
       </register>
       <register name="&quot;" type="4">
-        <text />
+        <text>booknam</text>
       </register>
       <register name="2" type="4">
-        <text>System.out.println(&quot;First value in List &quot; + list</text>
+        <text />
       </register>
       <register name="3" type="4">
-        <text>java.io.PrintStream out)</text>
+        <text>System.out.println(&quot;First value in List &quot; + list</text>
       </register>
       <register name="4" type="4">
+        <text>java.io.PrintStream out)</text>
+      </register>
+      <register name="5" type="4">
         <text>stNode</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBMaW5rTGlzdCBsaXN0ID0gbmV3IExpbmtMaXN0KCk7Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgbGlzdC5maXJzdE5vZGUoIkpheW4iLCAzKTsKICAgICAgICBsaXN0LmZpcnN0Tm9kZSgiTGxveWQiLCAyMik7CiAgICAgICAgbGlzdC5maXJzdE5vZGUoIkJyZW5kYSIsIDE0KTs=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICByYW5kb21OdW0gPSAxICsgKGludCkoTWF0aC5yYW5kb20oKSAqIDEwKTs=</text>
       </register>
-      <register name="9" type="4">
-        <text>randomNum</text>
-      </register>
       <register name="-" type="4">
-        <text />
+        <text>booknam</text>
       </register>
     </registers>
     <search>
