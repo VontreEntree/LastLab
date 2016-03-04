@@ -2,7 +2,7 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks>
-      <mark key="I" line="19" column="12" filename="$USER_HOME$/Desktop/tre/Project 1/src/com/company/Main.java" />
+      <mark key="I" line="34" column="33" filename="$USER_HOME$/Desktop/tre/Project 1/src/com/company/Student.java" />
     </globalmarks>
     <filemarks>
       <file name="$USER_HOME$/Desktop/tre/Data Structures/src/com/company/SLList.java" timestamp="1456430871162">
@@ -14,11 +14,11 @@
       <file name="/Dummy.txt" timestamp="1457035848378">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/tre/Project 1/src/com/company/Student.java" timestamp="1456865717600">
-        <mark key="'" line="20" column="27" />
-        <mark key="[" line="34" column="72" />
-        <mark key="]" line="34" column="72" />
-        <mark key="." line="34" column="72" />
+      <file name="$USER_HOME$/Desktop/tre/Project 1/src/com/company/Student.java" timestamp="1457119649240">
+        <mark key="'" line="34" column="33" />
+        <mark key="[" line="78" column="23" />
+        <mark key="]" line="78" column="23" />
+        <mark key="." line="78" column="23" />
       </file>
       <file name="/a.dummy" timestamp="1457035848648">
         <mark key="[" line="0" column="0" />
@@ -49,15 +49,15 @@
         <mark key="]" line="15" column="8" />
         <mark key="." line="15" column="8" />
       </file>
-      <file name="$USER_HOME$/Desktop/tre/Project 1/src/com/company/Main.java" timestamp="1456865736034">
+      <file name="$USER_HOME$/Desktop/tre/Project 1/src/com/company/Main.java" timestamp="1457119549007">
         <mark key="'" line="44" column="34" />
-        <mark key="[" line="44" column="74" />
+        <mark key="[" line="43" column="52" />
         <mark key="]" line="44" column="74" />
         <mark key="." line="44" column="74" />
       </file>
-      <file name="$USER_HOME$/Desktop/tre/Project 1/src/com/company/WaitingList.java" timestamp="1456865622610">
+      <file name="$USER_HOME$/Desktop/tre/Project 1/src/com/company/WaitingList.java" timestamp="1457119446231">
         <mark key="'" line="58" column="56" />
-        <mark key="[" line="14" column="72" />
+        <mark key="[" line="19" column="12" />
         <mark key="]" line="14" column="72" />
         <mark key="." line="14" column="72" />
       </file>
@@ -73,8 +73,8 @@
       <file name="$USER_HOME$/Desktop/tre/Data Structures/src/com/company/SLLNode.java" timestamp="1456422213744">
         <mark key="[" line="5" column="21" />
       </file>
-      <file name="$USER_HOME$/Desktop/tre/Project 1/src/com/company/Schedule.java" timestamp="1456865315291">
-        <mark key="[" line="18" column="78" />
+      <file name="$USER_HOME$/Desktop/tre/Project 1/src/com/company/Schedule.java" timestamp="1457119572108">
+        <mark key="[" line="18" column="81" />
       </file>
     </filemarks>
     <jumps>
@@ -86,40 +86,41 @@
       <jump line="35" column="32" filename="$USER_HOME$/Desktop/tre/Project 1/src/com/company/Main.java" />
       <jump line="19" column="27" filename="$USER_HOME$/Desktop/tre/Project 1/src/com/company/Student.java" />
       <jump line="40" column="34" filename="$USER_HOME$/Desktop/tre/Project 1/src/com/company/Main.java" />
+      <jump line="34" column="33" filename="$USER_HOME$/Desktop/tre/Project 1/src/com/company/Student.java" />
     </jumps>
     <registers>
       <register name="1" type="4">
-        <text>, stu.choice</text>
+        <text />
       </register>
       <register name="&quot;" type="4">
-        <text>, stu.choice</text>
+        <text />
       </register>
       <register name="2" type="4">
-        <text>, int choice</text>
+        <text encoding="base64">U3RyaW5nIA==</text>
       </register>
       <register name="3" type="4">
-        <text />
-      </register>
-      <register name="4" type="4">
-        <text>getFName()</text>
-      </register>
-      <register name="5" type="4">
-        <text>stu.</text>
-      </register>
-      <register name="6" type="4">
-        <text>return choice;</text>
-      </register>
-      <register name="7" type="4">
-        <text />
-      </register>
-      <register name="8" type="4">
-        <text />
-      </register>
-      <register name="9" type="4">
         <text>String</text>
       </register>
-      <register name="-" type="4">
+      <register name="4" type="4">
         <text>, stu.choice</text>
+      </register>
+      <register name="5" type="4">
+        <text>, int choice</text>
+      </register>
+      <register name="6" type="4">
+        <text />
+      </register>
+      <register name="7" type="4">
+        <text>getFName()</text>
+      </register>
+      <register name="8" type="4">
+        <text>stu.</text>
+      </register>
+      <register name="9" type="4">
+        <text>return choice;</text>
+      </register>
+      <register name="-" type="4">
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwuXD4=</text>
