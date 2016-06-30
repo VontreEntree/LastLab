@@ -23,11 +23,11 @@
       <file name="$USER_HOME$/IdeaProjects/3.12/src/SLList.java" timestamp="1455656069394">
         <mark key="[" line="3" column="20" />
       </file>
-      <file name="$USER_HOME$/Desktop/tre/OOM/src/com/company/StarLoc.java" timestamp="1467313848224">
-        <mark key="'" line="23" column="13" />
-        <mark key="[" line="69" column="7" />
-        <mark key="]" line="69" column="7" />
-        <mark key="." line="69" column="7" />
+      <file name="$USER_HOME$/Desktop/tre/OOM/src/com/company/StarLoc.java" timestamp="1467314401740">
+        <mark key="'" line="25" column="13" />
+        <mark key="[" line="105" column="12" />
+        <mark key="]" line="105" column="12" />
+        <mark key="." line="105" column="12" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/3.12/src/com/company/Main.java" timestamp="1456417929106">
         <mark key="[" line="1" column="0" />
@@ -154,10 +154,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHN3aXRjaChtaWxlc0ZTLzEwMDAwKQogICAgICAgIHsKICAgICAgICAgICAgCiAgICAgICAgfQ==</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>starNames.length()</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwuXD4=</text>
@@ -166,31 +166,31 @@
         <text>roll</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IHN3aXRjaChtaWxlc0ZTLzEwMDAwKQogICAgICAgIHsKICAgICAgICAgICAgCiAgICAgICAgfQ==</text>
+        <text />
       </register>
       <register name="2" type="4">
-        <text>starNames.length()</text>
+        <text>SunTempCalc();</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGludCBuYW1lQ291bnQgPSBzdGFyTmFtZXMubGVuZ3RoOwo=</text>
+      <register name="3" type="4">
+        <text />
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IHJuZC5uZXh0RG91YmxlKG1pbGVzRlMpOw==</text>
+        <text>SunTempCalc();</text>
       </register>
       <register name="5" type="4">
-        <text>rnd.nextDouble(milesFS);</text>
+        <text encoding="base64">IFN1blRlbXBDYWxjKCk7</text>
       </register>
       <register name="6" type="4">
-        <text>Random</text>
+        <text encoding="base64">WW91IGFyZSBhIGZhaXIgZGlzdGFuY2UgYXdheSBmcm9tIA==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">bG9uZyA=</text>
+        <text>a fair distance awa</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IGZvcihkb3VibGUgaSA9IDA7IGkgPCApCiAgICAgIHsKCiAgICAgIH0=</text>
+        <text>a fair distance away from</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IGlmKCkKICAgICAgICB7CiAgICAgICAgICAgIAogICAgICAgIH0=</text>
+        <text />
       </register>
     </registers>
     <search>
