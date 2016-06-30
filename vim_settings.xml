@@ -11,10 +11,11 @@
       <file name="$USER_HOME$/Desktop/tre/Data Structures/WordsInLines/src/SE330/Word.java" timestamp="1457459266570">
         <mark key="[" line="8" column="32" />
       </file>
-      <file name="$USER_HOME$/Desktop/tre/OOM/src/com/company/Accelerator.java" timestamp="1467301540550">
-        <mark key="[" line="19" column="7" />
-        <mark key="]" line="19" column="7" />
-        <mark key="." line="19" column="7" />
+      <file name="$USER_HOME$/Desktop/tre/OOM/src/com/company/Accelerator.java" timestamp="1467302175044">
+        <mark key="'" line="22" column="5" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1457035848648">
         <mark key="[" line="0" column="0" />
@@ -87,7 +88,7 @@
         <mark key="^" line="14" column="7" />
         <mark key="." line="12" column="4" />
       </file>
-      <file name="$USER_HOME$/Desktop/tre/OOM/src/com/company/GyroScope.java" timestamp="1467300431852">
+      <file name="$USER_HOME$/Desktop/tre/OOM/src/com/company/GyroScope.java" timestamp="1467302624120">
         <mark key="[" line="8" column="5" />
       </file>
       <file name="$USER_HOME$/Desktop/tre/Data Structures/Ex3_12/src/com/sb/se330/Main.java" timestamp="1456419948731">
@@ -136,40 +137,53 @@
       <jump line="40" column="34" filename="$USER_HOME$/Desktop/tre/Project 1/src/com/company/Main.java" />
       <jump line="34" column="33" filename="$USER_HOME$/Desktop/tre/Project 1/src/com/company/Student.java" />
       <jump line="7" column="33" filename="$USER_HOME$/Desktop/tre/OOM/src/com/company/StarLoc.java" />
+      <jump line="21" column="14" filename="$USER_HOME$/Desktop/tre/OOM/src/com/company/Accelerator.java" />
+      <jump line="22" column="5" filename="$USER_HOME$/Desktop/tre/OOM/src/com/company/Accelerator.java" />
     </jumps>
     <registers>
       <register name="1" type="4">
-        <text>int</text>
+        <text encoding="base64">ICAgIHZvaWQ=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>int</text>
+        <text encoding="base64">ICAgIHZvaWQ=</text>
       </register>
-      <register name="2" type="4">
-        <text />
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkhvdyBtdWNoIHdvdWxkIHlvdSBsaWtlIHRvIHNwZWVkIHVwPygxIC0gMTApIik7Cg==</text>
       </register>
       <register name="3" type="4">
         <text />
       </register>
       <register name="4" type="4">
-        <text>void</text>
+        <text>speed up?</text>
       </register>
       <register name="5" type="4">
-        <text>value</text>
+        <text>f(counter == 1)
+       {
+           
+       }
+        if(counter == 2)
+        {
+            
+        }
+        if(counter == 0)
+        {
+            
+        }</text>
       </register>
       <register name="6" type="4">
-        <text>value)</text>
+        <text />
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IHZhbHVl</text>
+        <text encoding="base64">IGRvdWJsZQ==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ewoKICAgIA==</text>
+        <text>double</text>
       </register>
       <register name="9" type="4">
-        <text>extends BST</text>
+        <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>int</text>
+        <text encoding="base64">ICAgIHZvaWQ=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwuXD4=</text>
