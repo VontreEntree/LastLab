@@ -5,7 +5,7 @@
       <mark key="I" line="35" column="33" filename="$USER_HOME$/Desktop/tre/Project 1/src/com/company/Student.java" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/Desktop/tre/OOM/src/com/company/ZeroGCompass.java" timestamp="1467299641915">
+      <file name="$USER_HOME$/Desktop/tre/OOM/src/com/company/ZeroGCompass.java" timestamp="1467315788169">
         <mark key="[" line="7" column="5" />
       </file>
       <file name="$USER_HOME$/Desktop/tre/Data Structures/WordsInLines/src/SE330/Word.java" timestamp="1457459266570">
@@ -23,11 +23,11 @@
       <file name="$USER_HOME$/IdeaProjects/3.12/src/SLList.java" timestamp="1455656069394">
         <mark key="[" line="3" column="20" />
       </file>
-      <file name="$USER_HOME$/Desktop/tre/OOM/src/com/company/StarLoc.java" timestamp="1467314401740">
+      <file name="$USER_HOME$/Desktop/tre/OOM/src/com/company/StarLoc.java" timestamp="1467315680798">
         <mark key="'" line="25" column="13" />
-        <mark key="[" line="105" column="12" />
-        <mark key="]" line="105" column="12" />
-        <mark key="." line="105" column="12" />
+        <mark key="[" line="160" column="31" />
+        <mark key="]" line="160" column="31" />
+        <mark key="." line="160" column="31" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/3.12/src/com/company/Main.java" timestamp="1456417929106">
         <mark key="[" line="1" column="0" />
@@ -45,10 +45,10 @@
         <mark key="]" line="4" column="25" />
         <mark key="." line="4" column="25" />
       </file>
-      <file name="$USER_HOME$/Desktop/tre/OOM/src/com/company/Movement.java" timestamp="1467306685847">
-        <mark key="[" line="36" column="44" />
-        <mark key="]" line="36" column="44" />
-        <mark key="." line="36" column="44" />
+      <file name="$USER_HOME$/Desktop/tre/OOM/src/com/company/Movement.java" timestamp="1467315868949">
+        <mark key="[" line="11" column="18" />
+        <mark key="]" line="11" column="18" />
+        <mark key="." line="11" column="18" />
       </file>
       <file name="$USER_HOME$/Desktop/tre/Data Structures/src/com/company/BST.java" timestamp="1457460596394">
         <mark key="[" line="12" column="10" />
@@ -154,10 +154,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>ce</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>ce</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwuXD4=</text>
@@ -166,31 +166,31 @@
         <text>roll</text>
       </register>
       <register name="1" type="4">
-        <text />
+        <text>ce</text>
       </register>
       <register name="2" type="4">
-        <text>SunTempCalc();</text>
+        <text>&quot;You have crashed into &quot; + star</text>
       </register>
       <register name="3" type="4">
-        <text />
+        <text>going crazy</text>
       </register>
       <register name="4" type="4">
-        <text>SunTempCalc();</text>
+        <text>minS</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IFN1blRlbXBDYWxjKCk7</text>
+        <text encoding="base64">IllvdSBhcmUgYSBmYWlyIGRpc3RhbmNlIGF3YXkgZnJvbSAiICsg</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">WW91IGFyZSBhIGZhaXIgZGlzdGFuY2UgYXdheSBmcm9tIA==</text>
+        <text>200000;</text>
       </register>
       <register name="7" type="4">
-        <text>a fair distance awa</text>
+        <text>80000</text>
       </register>
       <register name="8" type="4">
-        <text>a fair distance away from</text>
+        <text encoding="base64">IDQwMA==</text>
       </register>
       <register name="9" type="4">
-        <text />
+        <text>40</text>
       </register>
     </registers>
     <search>
@@ -226,6 +226,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
