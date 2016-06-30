@@ -23,11 +23,11 @@
       <file name="$USER_HOME$/IdeaProjects/3.12/src/SLList.java" timestamp="1455656069394">
         <mark key="[" line="3" column="20" />
       </file>
-      <file name="$USER_HOME$/Desktop/tre/OOM/src/com/company/StarLoc.java" timestamp="1467308266631">
-        <mark key="'" line="6" column="33" />
-        <mark key="[" line="26" column="7" />
-        <mark key="]" line="26" column="7" />
-        <mark key="." line="26" column="7" />
+      <file name="$USER_HOME$/Desktop/tre/OOM/src/com/company/StarLoc.java" timestamp="1467313848224">
+        <mark key="'" line="23" column="13" />
+        <mark key="[" line="69" column="7" />
+        <mark key="]" line="69" column="7" />
+        <mark key="." line="69" column="7" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/3.12/src/com/company/Main.java" timestamp="1456417929106">
         <mark key="[" line="1" column="0" />
@@ -150,13 +150,14 @@
       <jump line="20" column="4" filename="$USER_HOME$/Desktop/tre/OOM/src/com/company/GyroScope.java" />
       <jump line="54" column="55" filename="$USER_HOME$/Desktop/tre/OOM/src/com/company/GyroScope.java" />
       <jump line="41" column="47" filename="$USER_HOME$/Desktop/tre/OOM/src/com/company/GyroScope.java" />
+      <jump line="24" column="13" filename="$USER_HOME$/Desktop/tre/OOM/src/com/company/StarLoc.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHJuZC5uZXh0RG91YmxlKG1pbGVzRlMpOw==</text>
+        <text encoding="base64">IHN3aXRjaChtaWxlc0ZTLzEwMDAwKQogICAgICAgIHsKICAgICAgICAgICAgCiAgICAgICAgfQ==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHJuZC5uZXh0RG91YmxlKG1pbGVzRlMpOw==</text>
+        <text>starNames.length()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwuXD4=</text>
@@ -165,31 +166,31 @@
         <text>roll</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IHJuZC5uZXh0RG91YmxlKG1pbGVzRlMpOw==</text>
+        <text encoding="base64">IHN3aXRjaChtaWxlc0ZTLzEwMDAwKQogICAgICAgIHsKICAgICAgICAgICAgCiAgICAgICAgfQ==</text>
       </register>
       <register name="2" type="4">
-        <text>rnd.nextDouble(milesFS);</text>
+        <text>starNames.length()</text>
       </register>
-      <register name="3" type="4">
-        <text>Random</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGludCBuYW1lQ291bnQgPSBzdGFyTmFtZXMubGVuZ3RoOwo=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">bG9uZyA=</text>
+        <text encoding="base64">IHJuZC5uZXh0RG91YmxlKG1pbGVzRlMpOw==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IGZvcihkb3VibGUgaSA9IDA7IGkgPCApCiAgICAgIHsKCiAgICAgIH0=</text>
+        <text>rnd.nextDouble(milesFS);</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IGlmKCkKICAgICAgICB7CiAgICAgICAgICAgIAogICAgICAgIH0=</text>
+        <text>Random</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IFJhbmRvbShsb25nKTs=</text>
+        <text encoding="base64">bG9uZyA=</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">CmltcG9ydCBjb20uc3VuLmNvcmJhLnNlLnNwaS5leHRlbnNpb24uWmVyb1BvcnRQb2xpY3k7</text>
+        <text encoding="base64">IGZvcihkb3VibGUgaSA9IDA7IGkgPCApCiAgICAgIHsKCiAgICAgIH0=</text>
       </register>
       <register name="9" type="4">
-        <text />
+        <text encoding="base64">IGlmKCkKICAgICAgICB7CiAgICAgICAgICAgIAogICAgICAgIH0=</text>
       </register>
     </registers>
     <search>
